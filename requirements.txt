@@ -1,0 +1,5 @@
+aiohttp
+selectolax
+beautifulsoup4
+networkx
+numpy
